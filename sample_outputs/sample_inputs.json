@@ -1,0 +1,34 @@
+[
+  {
+    "file": "moodcanvas_joy_poster.png",
+    "input": "I am very happy today.",
+    "predicted_emotion": "joy",
+    "model_score": 0.9806,
+    "message": "Keep growing. Keep going.",
+    "seed": 42
+  },
+  {
+    "file": "moodcanvas_sadness_poster.png",
+    "input": "I feel sad and lonely today.",
+    "predicted_emotion": "sadness",
+    "model_score": 0.9861,
+    "message": "Small steps still move you forward.",
+    "seed": 42
+  },
+  {
+    "file": "moodcanvas_anger_poster.png",
+    "input": "I am angry because someone broke my phone.",
+    "predicted_emotion": "anger",
+    "model_score": 0.9859,
+    "message": "Pause. Breathe. Choose your next step.",
+    "seed": 42
+  },
+  {
+    "file": "moodcanvas_fear_poster.png",
+    "input": "I am nervous about my exam tomorrow.",
+    "predicted_emotion": "fear",
+    "model_score": 0.995,
+    "message": "Courage begins with one small step.",
+    "seed": 42
+  }
+]
